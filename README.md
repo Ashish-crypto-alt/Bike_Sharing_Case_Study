@@ -10,4 +10,4 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 # Data Collection
 We will be using a public dataset published by Divvy a bike sharing company in Chicago
-![Untitled](https://user-images.githubusercontent.com/82667439/166216677-921dccd3-db46-439c-bad2-67e4a7fcc2fa.png)
+
